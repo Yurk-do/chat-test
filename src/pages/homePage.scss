@@ -19,8 +19,11 @@
     margin-top: 20px;
     text-align: center;
 
-    .button-widget {
+    .button-chat-widget,
+    .button-help-widget {
       margin-right: 15px;
+    }
+    .button-help-widget {
     }
   }
 }
